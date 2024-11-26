@@ -42,8 +42,8 @@ This project models a smart house system where energy sources (e.g., solar panel
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-house-management.git
-   cd smart-house-management
+   git clone https://github.com/stevenson21/Group7-SmartHouse.git
+   cd Group7-SmartHouse
 2. Configure JavaFX in your development environment:
 
    - Download JavaFX SDK from [JavaFX Downloads](https://gluonhq.com/products/javafx/).
